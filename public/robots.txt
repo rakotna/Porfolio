@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow any private files if needed in future
+# Disallow: /private/
+
+# Sitemap (remplacez avec l'URL de votre domaine une fois en ligne)
+# Sitemap: https://votredomaine.com/sitemap.xml
